@@ -4,6 +4,10 @@
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 -----
+## Framework & Libraries
+[Seneca JS](http://senecajs.org/) -- microservices toolkit for Node.js 
+
+-----
 ## Design patterns
 
 ### Functional Programming
