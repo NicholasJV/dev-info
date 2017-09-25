@@ -11,3 +11,7 @@
 
 Check out some of the other articles too, he seems like a great at expressing complex topics.
 
+
+## News and podcasts
+- [SYNTAX podcast](https://syntax.fm/) by Wes Bos, JS tutorial guru.
+
