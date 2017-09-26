@@ -2,6 +2,8 @@
 -----
 ## Tooling
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+#### System config (.dotfiles bizness)
+- [Sexy - bash prompt](https://github.com/twolfson/sexy-bash-prompt)
 
 -----
 ## Framework & Libraries
@@ -10,7 +12,7 @@
 -----
 ## Design patterns
 
-### Functional Programming
+#### Functional Programming
 - [Lil Haoyi explains functional programming using a tiramisu recipe](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html) -- Check out some of the other articles too, seems like great explanations of complex topics.
 
 -----
