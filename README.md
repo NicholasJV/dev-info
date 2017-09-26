@@ -24,6 +24,8 @@
 -----
 ## Git
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out-talk)
+- [interactive git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;)
+- [Git Tower cheatsheet](https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png)
 
 ----- 
 ## Companies
