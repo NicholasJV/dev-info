@@ -3,7 +3,9 @@
 ## Tooling
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #### System config (.dotfiles bizness)
-- [Sexy - bash prompt](https://github.com/twolfson/sexy-bash-prompt)
+- [Sexy bash prompt](https://github.com/twolfson/sexy-bash-prompt)
+- [Lars Kappert's Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
+- [A curated list of dofiles resources](https://github.com/webpro/awesome-dotfiles)
 
 -----
 ## Framework & Libraries
