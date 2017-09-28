@@ -1,6 +1,8 @@
 # Nick's Dev Resource Lists
 -----
 ## Tooling
+#### Quick reference (cheat sheets)
+- [Cool logic operator Venn diagrams](https://cdn2.macworld.co.uk/cmsdata/slideshow/3646544/logic_thumb800.jpg)
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 #### System config (.dotfiles bizness)
 - [Sexy bash prompt](https://github.com/twolfson/sexy-bash-prompt)
