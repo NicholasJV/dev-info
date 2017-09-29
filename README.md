@@ -8,6 +8,8 @@
 - [Sexy bash prompt](https://github.com/twolfson/sexy-bash-prompt)
 - [Lars Kappert's Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 - [A curated list of dofiles resources](https://github.com/webpro/awesome-dotfiles)
+#### Vim
+- [ALE (async lint engine)](https://github.com/w0rp/ale)
 
 -----
 ## Framework & Libraries
