@@ -42,3 +42,4 @@
 -----
 ## INBOX
 - [https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros](Babel Macros)
+- [https://regexly.chipto.io/](Regexly, a visual regex tool recommended by Kent C Dodds
