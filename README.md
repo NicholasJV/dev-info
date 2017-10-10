@@ -35,3 +35,5 @@
 ## Companies
 - [McKinsey acqui-hires VLT labs in Kuala Lumpur](http://www.mckinsey.com/about-us/new-at-mckinsey-blog/this-week-vlt-labs-joins-mckinsey-digital-labs), serving Southeast Asia, notably _Indonesia_, Malaysia, Singapore, Thailand.
  
+-----
+## INBOX
