@@ -1,0 +1,22 @@
+{
+  "name": "dev-info",
+  "version": "0.1.1",
+  "description": "list of dev resources in several categories",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasJV/dev-info.git"
+  },
+  "keywords": [
+    "dev"
+  ],
+  "author": "Nick V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasJV/dev-info/issues"
+  },
+  "homepage": "https://github.com/NicholasJV/dev-info#readme"
+}
