@@ -10,10 +10,12 @@
 - [A curated list of dofiles resources](https://github.com/webpro/awesome-dotfiles)
 #### Vim
 - [ALE (async lint engine)](https://github.com/w0rp/ale)
+#### Text editing / IDEs
+- [Asynchronous Lint Engine (ALE) for VIM](https://github.com/w0rp/ale) - Highly recommended by the superstar [Tom](https://github.com/tmkelly28)
 
 -----
 ## Framework & Libraries
-- [Seneca JS](http://senecajs.org/) -- microservices toolkit for Node.js 
+- [Seneca JS](http://senecajs.org/) - microservices toolkit for Node.js 
 
 -----
 ## Design patterns
@@ -24,6 +26,8 @@
 -----
 ## News and podcasts
 - [SYNTAX podcast](https://syntax.fm/) by Wes Bos, JS tutorial guru
+- [Hacker News](https://news.ycombinator.com/) obvi
+- [Lobsters](https://lobste.rs/) similar to Hacker News just a different community
 
 -----
 ## Git
