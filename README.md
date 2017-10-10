@@ -1,17 +1,25 @@
 # Nick's Dev Resource Lists
 -----
 ## Tooling
+
 #### Quick reference (cheat sheets)
 - [Cool logic operator Venn diagrams](https://cdn2.macworld.co.uk/cmsdata/slideshow/3646544/logic_thumb800.jpg)
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 #### System config (.dotfiles bizness)
 - [Sexy bash prompt](https://github.com/twolfson/sexy-bash-prompt)
 - [Lars Kappert's Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789)
 - [A curated list of dofiles resources](https://github.com/webpro/awesome-dotfiles)
+
 #### Vim
 - [ALE (async lint engine)](https://github.com/w0rp/ale)
+
 #### Text editing / IDEs
 - [Asynchronous Lint Engine (ALE) for VIM](https://github.com/w0rp/ale) - Highly recommended by the superstar [Tom](https://github.com/tmkelly28)
+
+#### Misc code tools
+- [Regexly](https://regexly.chipto.io) a visual regex tool recommended by Kent C Dodds
+- [Babel Macros](https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros)
 
 -----
 ## Framework & Libraries
@@ -41,5 +49,3 @@
  
 -----
 ## INBOX
-- [Babel Macros](https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros)
-- [Regexly, a visual regex tool recommended by Kent C Dodds](https://regexly.chipto.io)
