@@ -22,8 +22,9 @@
 - [Babel Macros](https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros)
 
 -----
-## Framework & Libraries
-- [Seneca JS](http://senecajs.org/) - microservices toolkit for Node.js 
+## Web Frameworks & Libraries
+- [Seneca JS](http://senecajs.org/) - microservices toolkit for Node.js
+- [Glamorous](https://rc.glamorous.rocks/) - CSS for React (by Kent C Dodds)
 
 -----
 ## Design patterns
@@ -32,16 +33,20 @@
 - [Lil Haoyi explains functional programming using a tiramisu recipe](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html) -- Check out some of the other articles too, seems like great explanations of complex topics.
 
 -----
-## News and podcasts
-- [SYNTAX podcast](https://syntax.fm/) by Wes Bos, JS tutorial guru
-- [Hacker News](https://news.ycombinator.com/) obvi
-- [Lobsters](https://lobste.rs/) similar to Hacker News just a different community
-
------
 ## Git
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out-talk)
 - [interactive git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;)
 - [Git Tower cheatsheet](https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png)
+
+-----
+## Blockchain
+- https://consensys.net/
+
+-----
+## News and podcasts
+- [SYNTAX podcast](https://syntax.fm/) by Wes Bos, JS tutorial guru
+- [Hacker News](https://news.ycombinator.com/) obvi
+- [Lobsters](https://lobste.rs/) similar to Hacker News just a different community
 
 ----- 
 ## Companies
