@@ -47,6 +47,7 @@
 - [SYNTAX podcast](https://syntax.fm/) by Wes Bos, JS tutorial guru
 - [Hacker News](https://news.ycombinator.com/) obvi
 - [Lobsters](https://lobste.rs/) similar to Hacker News just a different community
+- [Product Hunt](https://www.producthunt.com/) duh
 
 ----- 
 ## Companies
@@ -54,3 +55,6 @@
  
 -----
 ## INBOX
+- [Solidity](https://solidity.readthedocs.io/en/develop/index.html)
+- [How much can you make mining Ether?](http://www.learn2ai.com/2017/09/how-much-can-you-make-mining-ether-and.html) on Learn2ai
+- [How I learned to Mine Ether](http://www.learn2ai.com/2017/06/how-i-learned-to-mine-eth-ether.html) on Learn2ai
