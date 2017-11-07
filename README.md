@@ -58,3 +58,6 @@
 - [Solidity](https://solidity.readthedocs.io/en/develop/index.html)
 - [How much can you make mining Ether?](http://www.learn2ai.com/2017/09/how-much-can-you-make-mining-ether-and.html) on Learn2ai
 - [How I learned to Mine Ether](http://www.learn2ai.com/2017/06/how-i-learned-to-mine-eth-ether.html) on Learn2ai
+- [Birth and Death of JS](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+- [Hierarchical composed state in React](https://builtvisible.com/hierarchical-composed-state-react-js/)
+- [Minimal API Surface Area talk by Seb Markbage](https://www.youtube.com/watch\?v\=4anAwXYqLG8)

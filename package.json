@@ -1,6 +1,6 @@
 {
   "name": "dev-info",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "list of dev resources in several categories",
   "main": "README.md",
   "scripts": {
